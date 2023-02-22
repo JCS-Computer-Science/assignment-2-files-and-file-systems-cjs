@@ -7,7 +7,6 @@
 		"test": "jest",
 		"dev": "nodemon index.js"
 	},
-	"type": "module",
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
